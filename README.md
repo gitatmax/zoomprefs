@@ -11,7 +11,7 @@ A small (VERY WIP & hacked together) script for storing your Zoom preferences on
 
 ## Usage
 
-Run the included [ZoomBackupRestore](ZoomBackupRestore.app) as a background app that starts with your Mac. It may help to give it permissions to manage your Applications; I'll add more info on that here once I confirm that's all it needs.
+Run the included [ZoomBackupRestore latest Release](https://github.com/gitatmax/zoomprefs/releases) as a background app that starts with your Mac. It may help to give it permissions to manage your Applications; I'll add more info on that here once I confirm that's all it needs.
 
 ## Feedback
 
